@@ -1,0 +1,25 @@
+---
+baseurl: "http://www.gntech.se"
+
+title: "GN Tech"
+metaDataFormat: "yaml"
+DefaultContentLanguage: sv
+
+Multilingual:
+  sv:
+    weight: 1
+    languageCode: "sv-SE"
+
+  en:
+    weight: 2
+    languageCode: "en-US"
+
+params:
+  author: "Gustav Näslund"
+  copyright: "Copyright &#xA9; 2016. Gustav Näslund."
+  google_verify: "Z9x58FCVYsVXqT9QUfcG3qbefgISHzL1iJlWLTshjEg"
+  google_analytics: "UA-9067070-1"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
