@@ -1,7 +1,7 @@
 ---
-baseurl: "http://www.gntech.se"
+baseurl: "http://www.example.com"
 
-title: "GN Tech"
+title: "Example"
 metaDataFormat: "yaml"
 DefaultContentLanguage: sv
 
@@ -14,12 +14,3 @@ Multilingual:
     weight: 2
     languageCode: "en-US"
 
-params:
-  author: "Gustav Näslund"
-  copyright: "Copyright &#xA9; 2016. Gustav Näslund."
-  google_verify: "Z9x58FCVYsVXqT9QUfcG3qbefgISHzL1iJlWLTshjEg"
-  google_analytics: "UA-9067070-1"
-
-taxonomies:
-  tag: "tags"
-  category: "categories"
